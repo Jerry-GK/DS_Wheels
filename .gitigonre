@@ -32,7 +32,7 @@
 *.app
 
 #VScode
-*.vscode
+/.vscode
 
 #Other folders or files
-z_test
+/z_test
